@@ -1,0 +1,22 @@
+.CustomerBasic {
+    display: flex;
+    border: 2px solid #eeeeee;
+    /* align-items: center;
+    justify-content: center; */
+    font-weight: 400;
+    padding: 1rem;
+}
+.cinfo {
+    width:50%;
+    margin-left: 40px;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+}
+.caddress{
+    margin-top: 0;
+    width:50%;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+}

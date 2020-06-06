@@ -1,0 +1,122 @@
+{
+    "customers": [
+        {
+            "id": 1,
+            "name" : "Aakash",
+            "email": "aakash@gmail.com",
+            "phone": "9125463284",
+            "age" :23,
+            "sex" : "Male",
+            "address": [
+                "C/2, Viman Darshan, MN Road, Off Kurla Andheri Road, Kurla West, Mumbai India",
+                "Hira Niketan, Ambadi Road, Vasai(w),Mumbai",
+                "108 -a Mittal Tower,  Th Flr, Yogakshema (nariman Point),Mumbai"
+            ]
+        },
+        {
+            "id": 2,
+            "name" : "Surya",
+            "email": "surya@gmail.com",
+            "phone": "6321458796",
+            "age" :21,
+            "sex" : "Male",
+            "address": [
+              
+            ]
+        },
+        {
+            "id": 3,
+            "name" : "Gowtham",
+            "email": "gowtham007@mail.com",
+            "phone": "9222040987",
+            "age" :22,
+            "sex" : "Male",
+            "address": [
+                "21 , Apeejay House,Sivakasi",
+                "38,Triangular Spot, Malaviya Road, Opp Post Office, Vile Parle (east),Trichy"
+            ]
+        } ,
+        {
+            "id": 4,
+            "name" : "Makesh",
+            "email": "makeshraj@gmail.com",
+            "phone": "9623412548",
+            "age" :34,
+            "sex" : "Male",
+            "address": [
+                "205 , Parasurampuria Chambers, Anand Road, Opp Railway Station, Malad (w),Maharshtra",
+                "58 , Din Bldg Compound, N M Joshi Mar, Shivaji Nagar,opp Pragati Indl Est, Lower Parel,Mumbai",
+                "Janardhan Palace, Kt Village Road, Vasai (west),Mumbai"
+            ]
+        } ,
+        {
+            "id": 5,
+            "name" : "Prasanna shri",
+            "email": "prasannashree@gmail.com",
+            "phone": "9043946425",
+            "age" :37,
+            "sex" : "Male",
+            "address": [
+                "Chafekar Chowk, Chinchwad,Pune",
+                "Plot No 757/758, Ss Iii, Sector 4, Kopar Khairne,Mumbai",
+                "21 , Apeejay House,Sivakasi"
+            ]
+        } ,
+        {
+            "id": 6,
+            "name" : "Krishna ",
+            "email": "krishnasp@gmail.com",
+            "phone": "8125479634",
+            "age" :29,
+            "sex" : "Male",
+            "address": [
+                "58 , Din Bldg Compound, N M Joshi Mar, Shivaji Nagar,opp Pragati Indl Est, Lower Parel,Mumbai",
+                "Janardhan Palace, Kt Village Road, Vasai (west),Mumbai"
+            ]
+        } ,
+        {
+            "id": 7,
+            "name" : "Vijay",
+            "email": "vijaykumar@gmail.com",
+            "phone": "7412366549",
+            "age" :27,
+            "sex" : "Male",
+            "address": [
+                "Hira Niketan, Ambadi Road, Vasai(w),Mumbai"
+            ]
+        } ,
+        {
+            "id": 8,
+            "name" : "Selva Kumar",
+            "email": "selvakumar@gmail.com",
+            "phone": "9944956547",
+            "age" :43,
+            "sex" : "Male",
+            "address": [
+            ]
+        },
+        {
+            "id": 9,
+            "name" : "Lingeswaran",
+            "email": "lingesh@gmail.com",
+            "phone": "9988995564",
+            "age" :23,
+            "sex" : "Male",
+            "address": [
+                "108 -a Mittal Tower,  Th Flr, Yogakshema (nariman Point),Mumbai"
+            ]
+        } ,
+        {
+            "id": 10,
+            "name" : "Aravind",
+            "email": "aravind@gmail.com",
+            "phone": "6321458796",
+            "age" :26,
+            "sex" : "Male",
+            "address": [
+                "Grd Floor, Mayur Pankh, Agiyary Lane, Tembi Naka, Thane (w),Pune",
+                "64 , Mahendra Goswami Lane, Bedon Street,Kolkatta"
+            ]
+        }
+    ]
+}
