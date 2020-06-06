@@ -10,11 +10,11 @@ Then Run the react app using  "npm start"<br>
 
 USAGE:
 On landing Page ,Click the Fetch Customers button to fetch the customers from API and display it in container.<br>
-Then Click on each row of the customer to see the address of that customer.
-
+Then Click on each row of the customer to see the address of that customer.<br>
+Screenshots : <br>
 1)
 ![alt text](https://github.com/Prasannashri/customer-details-display/blob/master/scs-1.JPG)
 2)
 ![alt text](https://github.com/Prasannashri/customer-details-display/blob/master/scs-2.JPG)
 3)
-1[alt text](https://github.com/Prasannashri/customer-details-display/blob/master/scs-3.JPG)
+![alt text](https://github.com/Prasannashri/customer-details-display/blob/master/scs-3.JPG)
